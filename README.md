@@ -36,7 +36,8 @@
 ---
 
 ## 机场通用客户端参考
-| 客户端                 | Windows |  <img width=5/>macOS<img width=5/>  |  <img width=11/>Linux<img width=11/>  |   <img width=19/>iOS<img width=19/>   | <img width=3/>Android<img width=3/> | <img width=7/>路由器<img width=7/> |
+
+| 客户端                 | Windows |  macOS<|  Linux< |   iOS  | Android |路由器 |
 |---------------------|---------|-------|-------|-----|---------|-----|
 | [Clash for Android]   |         |       |       |     | ✔       |     |
 | [Clash for Windows]   | ✔       | ✔     | ✔     |     |         |     |
@@ -60,6 +61,7 @@
 | [v2rayN]         | ✔       |       |       |     |         |     |
 | [v2rayNG]   |         |       |       |     | ✔       |     |
 | [V2rayU]           |         | ✔     |       |     |         |     |
+
 
 ## 稳定机场服务介绍
 
